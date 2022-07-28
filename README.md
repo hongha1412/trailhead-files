@@ -1,0 +1,2 @@
+- tạo task cho Thuỷ ITO confirm đã hoàn thành setup môi trường cho splunk
+- gửi mail vào luồng mail sẵn có
